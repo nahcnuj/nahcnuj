@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi 👋, I'm Junichi Hayashi
 
-<!--
-**nahcnuj/nahcnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack web engineer working with LAMP environment especially.
 
-Here are some ideas to get you started:
+### Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Over 5 years of experience in developing web services built on LAMP stack.
+- Redesigned an on-premises web service for AWS deployment, focusing on the transition from a traditional infrastructure to a cloud environment.
+- Actively communicated with other departments to refine requirements for some web services overhaul.
+- Improved performance by identifying and resolving web service bottlenecks through profiling
+
+### Experiences
+
+<details>
+<summary>
+Apr 2020&ndash;Present -
+Seesaa Inc. (merged with FAN Communications, Inc. in Jan 2024)
+</summary>
+
+- **Full-Stack Web Engineer**, A8.net Division (Jan 2024&ndash;Present)
+- **Full-Stack Web Engineer**, Blog Media Division (Apr 2020&ndash;Dec 2023)
+
+Comprehensively involved in the development, operation, and maintenance of multiple web services, including Seesaa Blog and Boom App Games.
+Successfully transitioned an on-premises web service to AWS under the principle of lift and shift, focusing on the transition from traditional infrastructure to a cloud environment.
+Involved in physical infrastructure management in data centers for on-premises web services.
+Proactively took on additional tasks in a small but elite team, ensuring all aspects of service delivery were covered.
+
+- **Team size:** 3&ndash;5 people
+- **Technologies:**
+  - Languages: Perl, TypeScript
+  - Frameworks: Sledge (a web framework in Perl), Template Toolkit, Next.js, jQuery
+  - Databases: MySQL, MongoDB (DocumentDB)
+  - Infrastructure: Docker, Terraform
+  - Cloud: AWS
+- **Projects:**
+  - Developed backend on LAMP stack to add new features
+  - Migrated on-premises MongoDB to AWS DocumentDB
+  - Improved response time by resolving bottlenecks based on performance profiling
+  - Developed frontend of SSG site using Next.js with a headless CMS
+  - Managed wiring changes due to data center network changes
+</details>
+
+### Education
+
+- Bachelor of Engineering, Osaka University (2018)
+
+### Qualifications
+
+- TOEIC score: 600 (2017)
+- Practical Algorithm Skill Test (PAST): Intermediate Class (2020)
