@@ -4,7 +4,7 @@ A full-stack web engineer working with LAMP environment especially.
 
 ### Summary
 
-- Over 5 years of experience in developing web services built on LAMP stack.
+- Over 4 years of experience in developing web services built on LAMP stack.
 - Redesigned an on-premises web service for AWS deployment, focusing on the transition from a traditional infrastructure to a cloud environment.
 - Actively communicated with other departments to refine requirements for some web services overhaul.
 - Improved performance by identifying and resolving web service bottlenecks through profiling
