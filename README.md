@@ -9,6 +9,23 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 - Improved performance by identifying and resolving web service bottlenecks through profiling
 - Actively communicated with other departments to refine requirements for some web services overhaul.
 
+### Skills
+
+- **Programming Languages**: Perl, TypeScript, Shell scripts (Bash)
+- **Frameworks**: 
+  - **Web Development**: Sledge (Perl), Template Toolkit, Next.js
+- **Databases**: MySQL, MongoDB
+- **Cloud Services**: 
+  - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS (MySQL), S3
+- **DevOps/Deployment**: Docker, Terraform
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: RESTful API development, performance optimization
+- **Version Control**: Git
+- **Soft Skills**: 
+  - Strong communication with other departments
+  - Proactive in taking on additional tasks
+  - Teamwork in small, elite groups
+
 ### Experiences
 
 <details>
@@ -17,8 +34,7 @@ Apr 2020&ndash;Present -
 Seesaa Inc. (merged with FAN Communications, Inc. in Jan 2024)
 </summary>
 
-- **Engineer**, A8.net Division (Jan 2024&ndash;Present)
-- **Engineer**, Blog Media Division (Apr 2020&ndash;Dec 2023)
+- **Engineer**, transitioned from Blog Media Division (Apr 2020–Dec 2023) to A8.net Division (Jan 2024–Present)A8.net Division (Jan 2024&ndash;Present)
 
 Comprehensively involved in the development, operation, and maintenance of multiple web services, including Seesaa Blog and Boom App Games.
 Successfully transitioned an on-premises web service to AWS under the principle of lift and shift, focusing on the transition from traditional infrastructure to a cloud environment.
@@ -50,3 +66,7 @@ For a detailed overview of my professional experience, please [see my full CV](.
 
 - TOEIC score: 600 (2017)
 - Practical Algorithm Skill Test (PAST): Intermediate Class (2020)
+
+### Languages
+- Japanese (Native)
+- English (TOEIC 600)

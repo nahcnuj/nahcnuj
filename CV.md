@@ -15,8 +15,22 @@
 - Strong communication skills, collaborating with other departments for service improvements
 - Performance optimization through bottleneck identification and profiling
 
-## Education
-- **Bachelor of Engineering**, Osaka University, 2018
+### Skills
+
+- **Programming Languages**: Perl, TypeScript, Shell scripts (Bash)
+- **Frameworks**: 
+  - **Web Development**: Sledge (Perl), Template Toolkit, Next.js
+- **Databases**: MySQL, MongoDB
+- **Cloud Services**: 
+  - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS (MySQL), S3
+- **DevOps/Deployment**: Docker, Terraform
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: RESTful API development, performance optimization
+- **Version Control**: Git
+- **Soft Skills**: 
+  - Strong communication with other departments
+  - Proactive in taking on additional tasks
+  - Teamwork in small, elite groups
 
 ## Professional Experience
 
@@ -93,6 +107,9 @@ Technology selection was based on client preferences.
   - Language: PHP
   - Framework: Twig
   - CMS: hacoCMS
+
+## Education
+- **Bachelor of Engineering**, Osaka University, 2018
 
 <!--
 ## Publications
