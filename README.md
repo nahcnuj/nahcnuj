@@ -34,7 +34,7 @@ Apr 2020&ndash;Present -
 Seesaa Inc. (merged with FAN Communications, Inc. in Jan 2024)
 </summary>
 
-- **Engineer**, transitioned from Blog Media Division (Apr 2020–Dec 2023) to A8.net Division (Jan 2024–Present)A8.net Division (Jan 2024&ndash;Present)
+- **Engineer**, transitioned from Blog Media Division (Apr 2020–Dec 2023) to A8.net Division (Jan 2024–Present)
 
 Comprehensively involved in the development, operation, and maintenance of multiple web services, including Seesaa Blog and Boom App Games.
 Successfully transitioned an on-premises web service to AWS under the principle of lift and shift, focusing on the transition from traditional infrastructure to a cloud environment.
