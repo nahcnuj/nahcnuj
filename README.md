@@ -40,6 +40,8 @@ Proactively took on additional tasks in a small but elite team, ensuring all asp
   - Managed wiring changes due to data center network changes
 </details>
 
+For a detailed overview of my professional experience, please [see my full CV](./CV.md).
+
 ### Education
 
 - Bachelor of Engineering, Osaka University (2018)
