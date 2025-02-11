@@ -74,6 +74,10 @@ For a detailed overview of my professional experience, please [see my full CV](.
 
 ### Interests
 
-- **Modern programming languages:**
+- **Modern programming languages**
   - **Rust:** Utilized in competitive programming contests (e.g. [AtCoder Beginner Contest 301](https://github.com/nahcnuj/CompetitiveProgramming/tree/master/ABC/301/src/bin))
   - **Lean 4:** Currently developing a toy programming language with formal verification, named [tibi](https://github.com/nahcnuj/tibi)
+- **(Formal) semantics of programming languages**
+  - I am interested in the semantics of programming languages, which underpins why we can say or assume, often subconsciously, that "programs behave as written."
+  - This interest extends not only to how results are determined but also to how types are assigned, finding the theoretical background of how types are affixed to Rust's memory model particularly fascinating.
+  - I also think, though not deeply, about what would happen if the same considerations were applied to dynamically typed languages, not just statically typed ones.
