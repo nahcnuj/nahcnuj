@@ -71,3 +71,9 @@ For a detailed overview of my professional experience, please [see my full CV](.
 ### Languages
 - Japanese (Native)
 - English (TOEIC 600)
+
+### Interests
+
+- **Modern programming languages:**
+  - **Rust:** Utilized in competitive programming contests (e.g. [AtCoder Beginner Contest 301](https://github.com/nahcnuj/CompetitiveProgramming/tree/master/ABC/301/src/bin))
+  - **Lean 4:** Currently developing a toy programming language with formal verification, named [tibi](https://github.com/nahcnuj/tibi)
