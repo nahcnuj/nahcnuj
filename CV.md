@@ -128,8 +128,8 @@ Technology selection was based on client preferences.
 -->
 
 ## Certifications
-- Practical Algorithm Skill Test (PAST): Intermediate Class, 2020
-- TOEIC score: 600, 2017
+- **Practical Algorithm Skill Test (PAST):** Intermediate Class, 2020
+- **TOEIC:** 600, 2017
 
 <!--
 ## Awards and Honors
@@ -137,8 +137,8 @@ Technology selection was based on client preferences.
 -->
 
 ## Languages
-- Japanese (Native)
-- English (TOEIC 600)
+- **Japanese:** Native
+- **English:** TOEIC 600
 
 <!--
 ## Additional Information
