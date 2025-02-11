@@ -1,6 +1,6 @@
 ## Junichi Hayashi
 
-A full-stack web engineer working with LAMP environment especially.
+A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) especially.
 
 ### Summary
 
@@ -36,7 +36,7 @@ Proactively took on additional tasks in a small but elite team, ensuring all asp
   - Developed backend on LAMP stack to add new features
   - Migrated on-premises MongoDB to AWS DocumentDB
   - Improved response time by resolving bottlenecks based on performance profiling
-  - Developed frontend of SSG site using Next.js with a headless CMS
+  - Developed frontend of SSG site using Next.js with the in-house headless CMS
   - Managed wiring changes due to data center network changes
 </details>
 
