@@ -22,7 +22,7 @@
   - **Web Development**: Sledge (Perl), Template Toolkit, Next.js
 - **Databases**: MySQL, MongoDB
 - **Cloud Services**: 
-  - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS (MySQL), S3
+  - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
 - **DevOps/Deployment**: Docker, Terraform
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
