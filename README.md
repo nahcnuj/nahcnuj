@@ -20,6 +20,7 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 - **DevOps/Deployment**: Docker, Terraform
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
+- **Operating Systems**: Linux (CentOS, AlmaLinux)
 - **Version Control**: Git
 - **Soft Skills**: 
   - Strong communication with other departments
