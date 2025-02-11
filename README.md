@@ -1,4 +1,4 @@
-## Hi 👋, I'm Junichi Hayashi
+## Junichi Hayashi
 
 A full-stack web engineer working with LAMP environment especially.
 
@@ -6,8 +6,8 @@ A full-stack web engineer working with LAMP environment especially.
 
 - Over 4 years of experience in developing web services built on LAMP stack.
 - Redesigned an on-premises web service for AWS deployment, focusing on the transition from a traditional infrastructure to a cloud environment.
-- Actively communicated with other departments to refine requirements for some web services overhaul.
 - Improved performance by identifying and resolving web service bottlenecks through profiling
+- Actively communicated with other departments to refine requirements for some web services overhaul.
 
 ### Experiences
 
@@ -17,8 +17,8 @@ Apr 2020&ndash;Present -
 Seesaa Inc. (merged with FAN Communications, Inc. in Jan 2024)
 </summary>
 
-- **Full-Stack Web Engineer**, A8.net Division (Jan 2024&ndash;Present)
-- **Full-Stack Web Engineer**, Blog Media Division (Apr 2020&ndash;Dec 2023)
+- **Engineer**, A8.net Division (Jan 2024&ndash;Present)
+- **Engineer**, Blog Media Division (Apr 2020&ndash;Dec 2023)
 
 Comprehensively involved in the development, operation, and maintenance of multiple web services, including Seesaa Blog and Boom App Games.
 Successfully transitioned an on-premises web service to AWS under the principle of lift and shift, focusing on the transition from traditional infrastructure to a cloud environment.
