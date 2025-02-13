@@ -11,9 +11,9 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 
 ### Skills
 
-- **Programming Languages**: Perl, TypeScript, Shell scripts (Bash)
+- **Programming Languages**: Perl, TypeScript, Bash
 - **Frameworks**: 
-  - **Web Development**: Sledge (Perl), Template Toolkit, Next.js
+  - **Web Development**: Sledge, Template Toolkit, Next.js
 - **Databases**: MySQL, MongoDB
 - **Cloud Services**: 
   - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
