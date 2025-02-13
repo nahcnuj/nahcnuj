@@ -16,14 +16,15 @@
 - Performance optimization through bottleneck identification and profiling
 
 ### Skills
-
-- **Programming Languages**: Perl, TypeScript, Shell scripts (Bash)
+- **Programming Languages**: Perl, TypeScript, Bash
 - **Frameworks**: 
-  - **Web Development**: Sledge (Perl), Template Toolkit, Next.js
+  - **Web Development**: Sledge, Template Toolkit, Next.js
 - **Databases**: MySQL, MongoDB
+- **Web Servers**: nginx, Apache HTTP Server
 - **Cloud Services**: 
-  - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
-- **DevOps/Deployment**: Docker, Terraform
+  - **AWS**: Amplify, Aurora MySQL, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
+- **Container**: Docker
+- **Infrastructure as Code (IaC)**: Terraform, AWS CDK
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
 - **Operating Systems**: Linux (CentOS, AlmaLinux)
@@ -40,7 +41,6 @@
 #### Backend Development of Blog Service Platform
 
 ##### Project Details
-
 - Adding functionalities to the platform, e.g.
   - Generating Structured Data, expected to boost SEO rankings
   - Embedding external contents from social media, Twitter and Instagram, via API to make embedding easier
@@ -53,13 +53,13 @@
 - Frameworks: Sledge (Perl web framework), Template Toolkit
 - Database: MySQL
 - Reverse Proxy: nginx, Apache HTTP Server
-- Infrastructure: Docker, Terraform
+- Containerization: Docker
+- IaC: Terraform
 - Cloud: AWS, OCI, Cloudflare
 
 #### Backend Development and AWS Migration of Game Media Services
 
 ##### Project Details
-
 - **Backend Development**
   - Introducing operational options to expand the genres of content handled by the service
   - Improving performance based on the Core Web Vitals metrics
@@ -73,13 +73,13 @@
 - Frameworks: Sledge (Perl web framework), Template Toolkit
 - Database: MongoDB (DocumentDB after the migration)
 - Reverse Proxy: nginx
-- Infrastructure: Docker, Terraform
+- Containerization: Docker
+- IaC: Terraform
 - Cloud: AWS
 
 #### Frontend Development of JAMstack or Dynamic Web Sites using In-house Headless CMS
 
 ##### Project Details
-
 - Development of the frontend of the following web sites using the in-house headless CMS, hacoCMS
   - an owned media site of a point service (SSG; TypeScript, Nuxt 2)
   - an owned media site for CPI-based advertising (SSG; TypeScript, Next.js)
@@ -97,6 +97,7 @@ Technology selection was based on client preferences.
   - CMS: hacoCMS
   - Deployment: AWS Amplify
   - Cloud: AWS
+  - IaC: AWS CDK
 - **JAMstack site building with CodeBuild and deploying to S3**
   - Language: TypeScript
   - Framework: Next.js or Nuxt 2
@@ -104,6 +105,7 @@ Technology selection was based on client preferences.
   - Deployment: S3+CodeBuild+CloudFront
   - Previewing: Lambda with a Function URL
   - Cloud: AWS
+  - IaC: AWS CDK
 - **Dynamic web site**
   - Language: PHP
   - Framework: Twig

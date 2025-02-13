@@ -15,10 +15,11 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 - **Frameworks**: 
   - **Web Development**: Sledge, Template Toolkit, Next.js
 - **Databases**: MySQL, MongoDB
+- **Web Servers**: nginx, Apache HTTP Server
 - **Cloud Services**: 
   - **AWS**: Amplify, Aurora MySQL, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
 - **Container**: Docker
-- **IaC**: Terraform, AWS CDK
+- **Infrastructure as Code (IaC)**: Terraform, AWS CDK
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
 - **Operating Systems**: Linux (CentOS, AlmaLinux)
