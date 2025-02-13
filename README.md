@@ -6,7 +6,7 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 
 - Over 4 years of experience in developing web services built on LAMP stack.
 - Redesigned an on-premises web service for AWS deployment, focusing on the transition from a traditional infrastructure to a cloud environment.
-- Improved performance by identifying and resolving web service bottlenecks through profiling
+- Improved performance by identifying and resolving web service bottlenecks through profiling.
 - Actively communicated with other departments to refine requirements for some web services overhaul.
 
 ### Skills
@@ -17,7 +17,8 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 - **Databases**: MySQL, MongoDB
 - **Cloud Services**: 
   - **AWS**: Amplify, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
-- **DevOps/Deployment**: Docker, Terraform
+- **Container**: Docker
+- **IaC**: Terraform, AWS CDK
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
 - **Operating Systems**: Linux (CentOS, AlmaLinux)
@@ -44,11 +45,12 @@ Proactively took on additional tasks in a small but elite team, ensuring all asp
 
 - **Team size:** 3&ndash;5 people
 - **Technologies:**
-  - Languages: Perl, TypeScript
+  - Languages: Perl, TypeScript, Bash
   - Frameworks: Sledge (a web framework in Perl), Template Toolkit, Next.js, jQuery
   - Databases: MySQL, MongoDB (DocumentDB)
-  - Infrastructure: Docker, Terraform
-  - Cloud: AWS
+  - Container: Docker
+  - IaC: Terraform, AWS CDK
+  - Infrastractures: AWS, on-premises
 - **Projects:**
   - Developed backend on LAMP stack to add new features
   - Migrated on-premises MongoDB to AWS DocumentDB
@@ -65,7 +67,7 @@ For a detailed overview of my professional experience, please [see my full CV](.
 
 ### Qualifications
 
-- TOEIC score: 600 (2017)
+- TOEIC: 600 (2017)
 - Practical Algorithm Skill Test (PAST): Intermediate Class (2020)
 
 ### Languages
@@ -77,7 +79,7 @@ For a detailed overview of my professional experience, please [see my full CV](.
 - **Modern programming languages**
   - **Rust:** Utilized in competitive programming contests (e.g. [AtCoder Beginner Contest 301](https://github.com/nahcnuj/CompetitiveProgramming/tree/master/ABC/301/src/bin))
   - **Lean 4:** Currently developing a toy programming language with formal verification, named [tibi](https://github.com/nahcnuj/tibi)
-- **(Formal) semantics of programming languages**
+- **Semantics of programming languages**
   - I am interested in the semantics of programming languages, which underpins why we can say or assume, often subconsciously, that "programs behave as written."
   - This interest extends not only to how results are determined but also to how types are assigned, finding the theoretical background of how types are affixed to Rust's memory model particularly fascinating.
   - I also think, though not deeply, about what would happen if the same considerations were applied to dynamically typed languages, not just statically typed ones.
