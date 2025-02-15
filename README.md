@@ -68,8 +68,8 @@ For a detailed overview of my professional experience, please [see my full CV](.
 
 ### Qualifications
 
+- Practical Algorithm Skill Test (PAST): Advanced Beginner Class, 58 pts (Feb 2025)
 - TOEIC: 600 (2017)
-- Practical Algorithm Skill Test (PAST): Advanced Beginner Class, 58 pts (Feb 2024)
 
 ### Languages
 - Japanese (Native)
