@@ -130,7 +130,7 @@ Technology selection was based on client preferences.
 -->
 
 ## Certifications
-- **Practical Algorithm Skill Test (PAST):** Intermediate Class, 2020
+- **Practical Algorithm Skill Test (PAST):** Advanced Beginner Class, 58 pts, Feb 2024
 - **TOEIC:** 600, 2017
 
 <!--
