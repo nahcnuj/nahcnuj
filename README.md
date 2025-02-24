@@ -17,7 +17,7 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 - **Databases**: MySQL, MongoDB
 - **Web Servers**: nginx, Apache HTTP Server
 - **Cloud Services**: 
-  - **AWS**: Amplify, Aurora MySQL, CloudFront, CodeBuild, DocumentDB, EC2, IAM, Lambda, RDS for MySQL, S3
+  - **AWS**: Amplify, Aurora MySQL, CloudFront, CloudFormation, CodeBuild, CodeCommit, DocumentDB, EC2, ECR, ELB (ALB, NLB), IAM, Lambda, RDS for MySQL, Route 53, S3, WAF
 - **Container**: Docker
 - **Infrastructure as Code (IaC)**: Terraform, AWS CDK
 - **Frontend**: HTML, CSS, JavaScript
