@@ -12,22 +12,17 @@ A full-stack web engineer working with LAMP stack (Linux, Apache, MySQL, Perl) e
 ### Skills
 
 - **Programming Languages**: Perl, TypeScript, Bash
-- **Frameworks**: 
-  - **Web Development**: Sledge, Template Toolkit, Next.js
+- **Web Frameworks**: Sledge, Next.js
 - **Databases**: MySQL, MongoDB
 - **Web Servers**: nginx, Apache HTTP Server
 - **Cloud Services**: 
-  - **AWS**: Amplify, Aurora MySQL, CloudFront, CloudFormation, CodeBuild, CodeCommit, DocumentDB, EC2, ECR, ELB (ALB, NLB), IAM, Lambda, RDS for MySQL, Route 53, S3, WAF
+  - **AWS**: Amplify, Aurora MySQL, CloudFront, CodeBuild, DocumentDB, EC2, ELB (ALB, NLB), IAM, Lambda, RDS for MySQL, S3, etc.
 - **Container**: Docker
 - **Infrastructure as Code (IaC)**: Terraform, AWS CDK
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: RESTful API development, performance optimization
 - **Operating Systems**: Linux (CentOS, AlmaLinux)
-- **Version Control**: Git
-- **Soft Skills**: 
-  - Strong communication with other departments
-  - Proactive in taking on additional tasks
-  - Teamwork in small, elite groups
+- **Version Control System**: Git
 
 ### Experiences
 
